@@ -23,6 +23,12 @@ The **Compact Fiber-Optic SERS Platform** is a research-oriented instrumentation
 
 The work spans both physical instrument development and software engineering: from optical and mechanical arrangement to device interfacing, spectral processing, results visualization, and experiment reporting.
 
+## System Overview — From Fiber-Optic Sensor to Spectral Analysis
+
+![Compact Fiber-Optic SERS Platform Overview](githb01.png)
+
+*Figure 1. Overview of the Compact Fiber-Optic SERS Platform, showing the fiber-optic sensor, optical CAD assembly, assembled sensing-system prototype, and web-based Raman spectral data analysis.*
+
 ## From Sensor Development to Instrumentation
 
 | Stage | Engineering contribution |
