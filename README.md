@@ -1,4 +1,4 @@
-<h1 align="center">Compact Fiber-Optic SERS Platform</h1>
+<h1 align="center">Web-Based Compact Fiber-Optic SERS Sensing System Platform</h1>
 
 <p align="center">
   <strong>Fiber-Optic Biosensing · Raman Spectroscopy · Scientific Instrumentation · Embedded Control · Full-Stack Software</strong>
