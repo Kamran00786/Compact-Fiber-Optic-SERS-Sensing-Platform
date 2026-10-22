@@ -19,7 +19,7 @@
 
 ## Project Overview
 
-The **Compact Fiber-Optic SERS Platform** is a research-oriented instrumentation system built around **surface-enhanced Raman scattering (SERS)** on a side-polished optical fiber. It brings sensor fabrication, mechanical design, optical and electronic hardware, a Raman spectrometer, and a Python/Django web application together in one experimental workflow.
+The **Compact Fiber-Optic SERS Sensing System Platform** is a research-oriented instrumentation system built around **surface-enhanced Raman scattering (SERS)** on a side-polished optical fiber. It brings sensor fabrication, mechanical design, optical and electronic hardware, a Raman spectrometer, and a Python/Django web application together in one experimental workflow.
 
 The work spans both physical instrument development and software engineering: from optical and mechanical arrangement to device interfacing, spectral processing, results visualization, and experiment reporting.
 
